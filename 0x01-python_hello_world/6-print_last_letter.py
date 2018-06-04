@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 my_word = "Holberton"
-print("{} is the first letter of the word {}".format(my_word[-1],my_word))
+print("{} is the last letter of the word {}".format(my_word[-1],my_word))
